@@ -1,3 +1,5 @@
+package SnakeAndLadder;
+
 public class Player {
 
     int pos;
